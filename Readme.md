@@ -28,13 +28,7 @@ Develop a user-friendly, real-time conversion tool that:
 
 ### Screenshot
 
-![](./screenshot.jpg)  
-*Replace with your application’s screenshot.*
-
-### Links
-
-- **Solution URL:** [Add solution URL here](#)
-- **Live Site URL:** [Add live site URL here](#)
+![](./images/Metric%20screenshot.png)  
 
 ## My Process
 
@@ -60,6 +54,7 @@ input[type="number"] {
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
+
 }
 Continued Development
 UI Enhancements: Explore further animations and micro-interactions to enrich user experience.
@@ -69,10 +64,11 @@ Useful Resources
 MDN Web Docs – Invaluable resource for web development documentation.
 CSS-Tricks – Great tips for creative and efficient CSS coding.
 W3Schools – Practical tutorials for HTML, CSS, and JavaScript essentials.
+
 Author
-Your Name: Your Website
-GitHub: @yourusername
-Twitter: @yourusername
+Your Name: www.Rikkihenry.com
+GitHub: https://github.com/mavverixx
+
 
 Acknowledgments
-Special thanks to the Srimaba community and resources that provided guidance and inspiration during this project’s development—particularly the insights from HTML input expression guides that helped shape the design and functionality of the conversion interface.
+Special thanks to the Srimba community and resources that provided guidance and inspiration during this project’s development—particularly the insights from HTML input expression guides that helped shape the design and functionality of the conversion interface.

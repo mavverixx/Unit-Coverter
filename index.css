@@ -5,7 +5,7 @@ body {
     align-items:center;
     margin: 0;
     font-family: 'Inter', sans-serif;
-    background-image: url('Numbers03.jpg');
+    background-image: url('images/Numbers03.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -46,7 +46,7 @@ body {
     position: relative;
     width: 500px;
     height: 180px;
-    background-image: url('Numbers02.jpg');
+    background-image: url('images/Numbers02.jpg');
     background-size: cover;
     border-bottom: 650px solid #edeaf8;
     border-radius: 10px;
