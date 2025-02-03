@@ -1,6 +1,9 @@
 <html>
     <head>
         <link rel="stylesheet" href="index.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
     </head>
         
     
@@ -8,10 +11,11 @@
                     
             <div id="container-2">  
                         <h1>Metric/Imperial Unit Conversion</h1>
-                        <input id="input-section" type="number" name="unit">
+                        
+                        <input class="button-covert" id="input-section" type="number" name="unit">
 
 
-                        <button id="convert-button">Convert</button>
+                        <button class="button-covert"  id="convert-button">Convert</button>
 
 
                         <div class="box" id="box-position-1" >Length (Meter/Feet)
@@ -33,6 +37,6 @@
 
            
             
-                        <script src="index.js" defer></script>
+                        <script type="module" src="index.js" defer></script>
     </body>
 </html>
